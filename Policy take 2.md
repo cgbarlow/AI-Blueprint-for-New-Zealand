@@ -1,4 +1,4 @@
-# HOW
+# WHAT
 
 **Sovereign AI Infrastructure**
 - **National Data Centers**: Government investment in state-of-the-art, secure data centers.
