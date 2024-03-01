@@ -1,6 +1,8 @@
 # AI-Policy-for-New-Zealand
 Creating an AI Policy for New Zealand because why not?
 
+See also: [Policy take 2](/Policy take 2.md)
+
 ## Executive Summary:
 New Zealand’s strategic plan for leveraging artificial intelligence (AI) aims to foster ethical development, promote equitable access, and protect unique cultural heritages while ensuring economic growth and sustainability. 
 
