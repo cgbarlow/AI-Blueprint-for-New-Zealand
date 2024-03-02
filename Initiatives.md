@@ -75,9 +75,7 @@
 
 ### AI in Public Services
 - **What**: Leveraging AI to enhance efficiency, accessibility, and personalization in public services like healthcare, transportation, and public safety.
-- **Why**: To demonstrate AI's potential in improving daily life, making public services more responsive and effective, showcasing the government's role in using technology for the
-
- public good.
+- **Why**: To demonstrate AI's potential in improving daily life, making public services more responsive and effective, showcasing the government's role in using technology for the public good.
 
 ## Global Leadership and Collaboration
 
