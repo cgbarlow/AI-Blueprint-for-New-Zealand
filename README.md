@@ -1,5 +1,5 @@
 # AI Blueprint for New Zealand
-Creating an AI Policy for New Zealand because why not? Needs a lot of work, but its a start.
+Crowd-sourcing an AI Blueprint for New Zealand, because why not? Needs work, but its a start.
 
 ## TL;DR
 New Zealand's AI strategy emphasizes ethical development, cultural integrity, and innovation, aiming to secure national data sovereignty, enhance education and workforce readiness, and foster economic growth. It prioritizes environmental sustainability and public engagement, while advocating for global collaboration and ethical leadership in AI. The approach prepares for the future of work and promotes interdisciplinary research, ensuring AI benefits society equitably and reflects New Zealand's values.
