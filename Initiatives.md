@@ -21,7 +21,7 @@
 ## 2. Ethical Frameworks and Cultural Integrity
 ![DALL·E 2024-03-03 15 41 37 - A minimalist black and white line drawing showcasing a roundtable discussion with diverse individuals, including representation from the Māori communi](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/95e2f7df-c7d4-4f94-918f-d2fa1367e366)
 
-### 2.1 AI for Cultural and Ethical Integrity
+### 2.1. AI for Cultural and Ethical Integrity
 - 2.1.1. **Māori Data Sovereignty**
   - **What**: Integration of Māori perspectives and principles into AI data governance.
   - **Why**: To ensure AI development aligns with the Treaty of Waitangi principles, respecting indigenous knowledge systems and incorporating cultural diversity into technology.
