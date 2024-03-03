@@ -4,7 +4,7 @@ Crowd-sourcing an AI Blueprint for New Zealand, because why not? Needs work, but
 ## TL;DR
 New Zealand's AI strategy emphasizes ethical development, cultural integrity, and innovation, aiming to secure national data sovereignty, enhance education and workforce readiness, and foster economic growth. It prioritizes environmental sustainability and public engagement, while advocating for global collaboration and ethical leadership in AI. The approach prepares for the future of work and promotes interdisciplinary research, ensuring AI benefits society equitably and reflects New Zealand's values.
 
-![DALL·E 2024-03-03 16 10 34 - A simplified minimalist line drawing in a 4_3 landscape ratio, focusing on the essence of the future of work and interdisciplinary collaboration witho](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/65a5719d-3c00-4b2b-bb4f-014de0aa502a)
+![DALL·E 2024-03-03 16 10 34 - A simplified minimalist line drawing in a 4_3 landscape ratio, focusing on the essence of the future of work and interdisciplinary collaboration witho - black](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/d5a6f55a-8ba1-43d2-863a-6b4e62379749)
 
 ## Executive Summary
 New Zealand's comprehensive strategy for integrating Artificial Intelligence (AI) into its societal fabric is a forward-looking blueprint designed to harness AI's transformative potential while safeguarding national interests, cultural heritage, and ethical values. This strategy is built on a foundation of sovereign AI infrastructure, including state-of-the-art national data centers and open-source AI platforms, supported by comprehensive digital infrastructure to foster innovation and ensure robust data security and privacy.
