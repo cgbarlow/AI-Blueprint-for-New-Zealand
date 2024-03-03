@@ -1,4 +1,4 @@
-## Foundational Infrastructure for AI
+<span style="color: red;">## Foundational Infrastructure for AI</span>
 
 ### Sovereign AI Infrastructure
 - **National Data Centers**
