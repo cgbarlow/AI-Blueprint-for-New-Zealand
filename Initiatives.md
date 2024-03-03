@@ -73,7 +73,7 @@
   - **What**: Providing financial incentives, resources, and support for domestic AI enterprises.
   - **Why**: To stimulate economic growth, create high-value jobs, and retain profits within New Zealand, fostering a resilient and innovative economic landscape.
 
-### 3.3. Intellectual Property Rights in AI
+### 3.4. Intellectual Property Rights in AI
 - **What**: Development of clear guidelines and protections for intellectual property rights related to AI-generated content and inventions.
 - **Why**: To encourage creativity and innovation, ensuring that developers and creators are fairly compensated and recognized for their contributions, fostering a culture of respect for intellectual property.
 
