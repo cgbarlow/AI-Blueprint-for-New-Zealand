@@ -1,3 +1,12 @@
+# Contents
+[1. Foundational Infrastructure for AI](#1.-Foundational-Infrastructure-for-AI)
+[2. Ethical Frameworks and Cultural Integrity](#2.-Ethical-Frameworks-and-Cultural-Integrity)
+[3. Education, Workforce, and Innovation Ecosystem](#3.-Education,-Workforce,-and-Innovation-Ecosystem)
+[4. Social and Environmental Sustainability](#4.-Social-and-Environmental-Sustainability)
+[5. Public Engagement and Services Enhancement](#5.-Public-Engagement-and-Services-Enhancement)
+[6. Global Leadership and Collaboration](#6.-Global-Leadership-and-Collaboration)
+[7. Future of Work and Interdisciplinary Collaboration](#7.-Future-of-Work-and-Interdisciplinary-Collaboration)
+
 ## 1. Foundational Infrastructure for AI
 ![DALL·E 2024-03-03 15 41 35 - A minimalist black and white line drawing depicting a diverse group of people collaboratively building a data center, represented by assembling puzzle](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/8c9ad1c3-bd24-4eff-80ac-25e66aee3861)
 
