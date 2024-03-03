@@ -90,7 +90,7 @@
   - **Why**: To ensure AI technology directly addresses the needs and priorities of New Zealanders, enhancing quality of life and addressing social issues through innovative solutions.
 
 ## 5. Public Engagement and Services Enhancement
-*Ran out of tokens today. Insert image here.*
+*(Ran out of tokens today. Insert image here.)*
  
 ### 5.1. Public Awareness and Engagement
 - **What**: Launching initiatives to educate the public about AI and involve them in its development process.
