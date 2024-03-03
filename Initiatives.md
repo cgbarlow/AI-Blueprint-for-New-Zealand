@@ -90,8 +90,8 @@
   - **Why**: To ensure AI technology directly addresses the needs and priorities of New Zealanders, enhancing quality of life and addressing social issues through innovative solutions.
 
 ## 5. Public Engagement and Services Enhancement
-*(Ran out of tokens today. Insert image here.)*
- 
+![DALL·E 2024-03-03 18 42 00 - Create a minimalist and simplified black and white line drawing, focusing on a serene and less crowded scene of public engagement with AI in New Zeala](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/e6d34a79-37ea-479e-bd9c-87054fcebc10)
+
 ### 5.1. Public Awareness and Engagement
 - **What**: Launching initiatives to educate the public about AI and involve them in its development process.
 - **Why**: To build an informed society that actively participates in shaping the ethical use of AI, ensuring technologies reflect public values and priorities.
