@@ -34,14 +34,27 @@
 
 ## Education, Workforce, and Innovation Ecosystem
 
-### Education and Workforce Development
+### Education, Digital Literacy, and Workforce Resilience
+- **Critical Thinking Enhancement**
+  - **What**: Integrate critical thinking and digital literacy into educational programs.
+  - **Why**: To prepare students to discern and evaluate the credibility of digital content, enhancing their ability to responsibly use and question AI outputs.
+
 - **STEM and AI Education**
   - **What**: Expansion of educational programs in STEM and AI from primary through tertiary levels.
   - **Why**: To prepare New Zealanders for the future job market, fostering a skilled talent pool for the AI industry and supporting home-grown innovation.
 
+- **Educator AI Literacy**
+  - **What**: Offer professional development for educators on AI and misinformation.
+  - **Why**: Ensuring educators are equipped to teach about the ethical use of AI and the critical evaluation of AI-generated content.
+
+- **Public Awareness Campaigns: Combating Misinformation**
+  - **What**: Conduct public awareness campaigns on the impact of deep fakes and misinformation.
+  - **Why**: To empower the public to identify and mitigate the spread of false information, thereby maintaining an informed and responsible citizenry.
+
 - **Workforce Transitioning**
   - **What**: Initiatives aimed at reskilling workers in sectors affected by AI advancements.
   - **Why**: To mitigate job displacement and promote a just transition for all workers, ensuring equitable benefits from AI advancements.
+
 
 ### Innovation and Economic Growth
 - **AI Regulatory Sandbox**
