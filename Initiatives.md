@@ -1,7 +1,7 @@
 # Contents
 - [1. Foundational Infrastructure for AI](#1-Foundational-Infrastructure-for-AI)
 - [2. Ethical Frameworks and Cultural Integrity](#2-Ethical-Frameworks-and-Cultural-Integrity)
-- [3. Education, Workforce, and Innovation Ecosystem](#3-Education,-Workforce,-and-Innovation-Ecosystem)
+- [3. Education, Workforce, and Innovation Ecosystem](#3-Education-Workforce-and-Innovation-Ecosystem)
 - [4. Social and Environmental Sustainability](#4-Social-and-Environmental-Sustainability)
 - [5. Public Engagement and Services Enhancement](#5-Public-Engagement-and-Services-Enhancement)
 - [6. Global Leadership and Collaboration](#6-Global-Leadership-and-Collaboration)
