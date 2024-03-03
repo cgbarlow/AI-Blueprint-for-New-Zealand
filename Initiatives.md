@@ -1,4 +1,5 @@
 ## Foundational Infrastructure for AI
+![DALL·E 2024-03-03 15 41 35 - A minimalist black and white line drawing depicting a diverse group of people collaboratively building a data center, represented by assembling puzzle](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/8c9ad1c3-bd24-4eff-80ac-25e66aee3861)
 
 ### Sovereign AI Infrastructure
 - **National Data Centers**
@@ -18,6 +19,7 @@
 - **Why**: To address AI-specific security threats, ensuring robust protection for citizens' data and fostering trust in AI technologies.
 
 ## Ethical Frameworks and Cultural Integrity
+![DALL·E 2024-03-03 15 41 37 - A minimalist black and white line drawing showcasing a roundtable discussion with diverse individuals, including representation from the Māori communi](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/95e2f7df-c7d4-4f94-918f-d2fa1367e366)
 
 ### AI for Cultural and Ethical Integrity
 - **Māori Data Sovereignty**
@@ -33,6 +35,7 @@
 - **Why**: To guide developers towards creating AI that is transparent, accountable, fair, and respects human rights, ensuring responsible innovation.
 
 ## Education, Workforce, and Innovation Ecosystem
+![DALL·E 2024-03-03 15 41 44 - A minimalist black and white line drawing depicting a classroom scene with a teacher illuminating the path for students as they navigate through a maz](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/6440f031-54d3-48c7-a97c-ad0cdf567f9c)
 
 ### Digital and Critical Literacy
 - **Critical Thinking Enhancement**
@@ -42,10 +45,6 @@
 - **Educator AI Literacy**
   - **What**: Offer professional development for educators on AI and misinformation.
   - **Why**: Ensuring educators are equipped to teach about the ethical use of AI and the critical evaluation of AI-generated content.
-
-- **Public Awareness Campaigns: Combating Misinformation**
-  - **What**: Conduct public awareness campaigns on the impact of deep fakes and misinformation.
-  - **Why**: To empower the public to identify and mitigate the spread of false information, thereby maintaining an informed and responsible citizenry.
 
 ### Future-Ready Workforce Development
 - **STEM and AI Education**
@@ -70,6 +69,7 @@
 - **Why**: To encourage creativity and innovation, ensuring that developers and creators are fairly compensated and recognized for their contributions, fostering a culture of respect for intellectual property.
 
 ## Social and Environmental Sustainability
+![DALL·E 2024-03-03 15 41 47 - A minimalist black and white line drawing depicting a community gathering where individuals are collaboratively working on AI-driven environmental con](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/3a2d16a9-78d2-4aed-bb89-a60debe3e6a8)
 
 ### Environmental and Social Sustainability
 - **Green AI Initiatives**
@@ -86,11 +86,16 @@
 - **What**: Launching initiatives to educate the public about AI and involve them in its development process.
 - **Why**: To build an informed society that actively participates in shaping the ethical use of AI, ensuring technologies reflect public values and priorities.
 
+### Combating Misinformation
+- **What**: Conduct public awareness campaigns on the impact of deep fakes and misinformation.
+- **Why**: To empower the public to identify and mitigate the spread of false information, thereby maintaining an informed and responsible citizenry.
+
 ### AI in Public Services
 - **What**: Leveraging AI to enhance efficiency, accessibility, and personalization in public services like healthcare, transportation, and public safety.
 - **Why**: To demonstrate AI's potential in improving daily life, making public services more responsive and effective, showcasing the government's role in using technology for the public good.
 
 ## Global Leadership and Collaboration
+![DALL·E 2024-03-03 15 41 57 - A minimalist black and white line drawing illustrating a globe surrounded by diverse figures, each holding a digital tablet that connects them with gl](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/7ebe7cac-0889-4869-8988-911528e6312f)
 
 ### International Cooperation and Diplomacy
 - **Global AI Partnerships**
@@ -102,6 +107,7 @@
   - **Why**: To advocate for responsible AI use and promote international standards that reflect New Zealand's commitment to fairness, transparency, and human rights.
 
 ## Future of Work and Interdisciplinary Collaboration
+![DALL·E 2024-03-03 15 45 08 - A minimalist line drawing in a 4_3 landscape ratio, illustrating the concept of the future of work and interdisciplinary collaboration as outlined in (1)](https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand/assets/959402/61aa591d-5b84-4ce6-b278-cb0b85f3a8cf)
 
 ### AI and the Future of Work
 - **What**: Analysis and preparation for AI's impact on the labor market, with strategies for adaptation and transition.
