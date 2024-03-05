@@ -1,3 +1,5 @@
+Go back [home](../README.md)
+
 # Contents
 - [1. Foundational Infrastructure for AI](#1-Foundational-Infrastructure-for-AI)
 - [2. Ethical Frameworks and Cultural Integrity](#2-Ethical-Frameworks-and-Cultural-Integrity)
