@@ -1,4 +1,4 @@
-Go back [home](../README.md)
+Back to [home](../README.md).
 
 # Contents
 - [1. Foundational Infrastructure for AI](#1-Foundational-Infrastructure-for-AI)
