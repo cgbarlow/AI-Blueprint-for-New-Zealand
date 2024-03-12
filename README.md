@@ -1,6 +1,9 @@
 # AI Blueprint for New Zealand
 Crowd-sourcing an AI Blueprint for New Zealand, because why not? Needs work, but its a start.
 
+## License details
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/cgbarlow/AI-Blueprint-for-New-Zealand">AI Blueprint for New Zealand</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/cgbarlow">Chris Barlow</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+
 ## TL;DR
 New Zealand's AI strategy emphasizes ethical development, cultural integrity, and innovation, aiming to secure national data sovereignty, enhance education and workforce readiness, and foster economic growth. It prioritizes environmental sustainability and public engagement, while advocating for global collaboration and ethical leadership in AI. The approach prepares for the future of work and promotes interdisciplinary research, ensuring AI benefits society equitably and reflects New Zealand's values.
 
